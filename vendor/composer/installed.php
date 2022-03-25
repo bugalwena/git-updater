@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-develop',
-        'version' => 'dev-develop',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'd2ddce8572a1448647debadb6aa8daaabfcb9ea2',
+        'reference' => '3c7dd569b7106ecc239bf84d3f23d61eca4cc9c8',
         'name' => 'afragen/git-updater',
         'dev' => false,
     ),
     'versions' => array(
         'afragen/git-updater' => array(
-            'pretty_version' => 'dev-develop',
-            'version' => 'dev-develop',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'd2ddce8572a1448647debadb6aa8daaabfcb9ea2',
+            'reference' => '3c7dd569b7106ecc239bf84d3f23d61eca4cc9c8',
             'dev_requirement' => false,
         ),
         'afragen/singleton' => array(
